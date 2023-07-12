@@ -31,4 +31,5 @@ $ pip install requirements.txt
 ```
 By doing this,all packages needed in this project are automatically installed on your machine.
 Now Download app.py files and run TelecomCustomerChurn.ipynb files into your machine And some inputs to check our model and Its accuracy of prediction.
-Project Demo Link
+
+![Link]Project Demo Link
